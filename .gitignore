@@ -1,0 +1,23 @@
+# Unity generated folders to ignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VS/JetBrains Rider
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.sdf
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
