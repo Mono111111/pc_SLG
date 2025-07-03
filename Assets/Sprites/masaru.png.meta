@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: Byka4SP5U3ndo4crAqQG9lqX8ukqDFqA9iHSbkJ0oOnqyXUA37BMSc0=
+guid: XX8a4H+qVnknhwONA+MJZhONhUcOE5YSZ2jzezuN5e7g08+ts5EdbyE=
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -142,7 +142,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: masaru_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1341
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9407e18af5ef489fb6ad9711ace5c
+      internalID: -918954853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: masaru_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1341
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695bb7f18677ead4dbf27a684ff534a2
+      internalID: 499967379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: masaru_2
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1341
+        width: 190
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585dcbc2824104b40932c9a47a0cf50e
+      internalID: -799205978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: masaru_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 781
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a1883afef68443b532897da3288df
+      internalID: -789340241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -153,7 +237,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      masaru_0: -918954853
+      masaru_1: 499967379
+      masaru_2: -799205978
+      masaru_3: -789340241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

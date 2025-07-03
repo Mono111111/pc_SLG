@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: Wy4Y5nmvBi6CDPDEEVem9neQf3pjHVCpKa3MbeJxx8Ye1l/4L28Wuuo=
+guid: DHsYty6sBnqdH6wMVcMAp5CLDbks9Ftr9A+G1feKXQ81w1++mVNhvhI=
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -142,7 +142,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: shinya_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1341
+        width: 170
+        height: 210
+      alignment: 9
+      pivot: {x: 0.50299853, y: 0.08188444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb785b83151bdfd4095260e36e5cb1a1
+      internalID: -1098035597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinya_1
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 781
+        width: 170
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5095118, y: 0.07003935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c92c36bd81f4394aa43dc6f7004aa26
+      internalID: 406486730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinya_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1342
+        width: 170
+        height: 200
+      alignment: 9
+      pivot: {x: 0.509398, y: 0.066362366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41e450c2a27ea4498f856dbe4e4a99
+      internalID: 120695542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinya_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 781
+        width: 170
+        height: 210
+      alignment: 9
+      pivot: {x: 0.50939727, y: 0.076633304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc88c2486a15205498912a4754c518b7
+      internalID: 1299188493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -153,7 +237,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shinya_0: -1098035597
+      shinya_1: 406486730
+      shinya_2: 120695542
+      shinya_3: 1299188493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
